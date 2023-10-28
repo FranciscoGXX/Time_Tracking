@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@300&family=Rubik:wght@300;400;500&display=swap');
+
+
+:root {
+  /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
+  font-size: 18px;
+  font-family: Rubik;
+  color: #FFF;
+ 
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  min-width: 375px;
+  max-width: 1440px;
+  background-color:hsl(226, 43%, 10%);
+  
+}
+
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
